@@ -3,5 +3,5 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Lebab is a tool which  takes an old JavaScript code and transpiles it
   into a modern code. It does the opposite of Babel.
-baseurl: ""
+baseurl: /lebab.io
 markdown: kramdown
